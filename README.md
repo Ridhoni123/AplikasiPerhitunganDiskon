@@ -1,6 +1,6 @@
 # AppPerhitunganDiskon
 
-`AppPerhitunganDiskon` adalah aplikasi GUI berbasis Java yang dirancang untuk membantu pengguna menghitung diskon pada harga suatu barang dengan memasukkan harga asli, menerapkan persentase diskon, dan menggunakan kupon diskon opsional. Aplikasi ini menyediakan antarmuka yang mudah digunakan untuk melihat harga setelah diskon, persentase penghematan, dan total penghematan.
+`ApplikasiPerhitunganDiskon` adalah aplikasi GUI berbasis Java yang dirancang untuk membantu pengguna menghitung diskon pada harga suatu barang dengan memasukkan harga asli, menerapkan persentase diskon, dan menggunakan kupon diskon opsional. Aplikasi ini menyediakan antarmuka yang mudah digunakan untuk melihat harga setelah diskon, persentase penghematan, dan total penghematan.
 
 ## Deskripsi
 
@@ -49,3 +49,4 @@ Aplikasi ini memungkinkan pengguna untuk memasukkan harga asli suatu barang dan 
 Muhammad Ridhoni Ilham 2210010515
 
 ## Demo
+![Demo GIF](https://github.com/Ridhoni123/AplikasiPerhitunganDiskon/blob/main/img/Recording%202024-11-10%20210757.gif)
